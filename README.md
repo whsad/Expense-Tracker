@@ -67,4 +67,5 @@ Run the application with the following commands:
 - Expenses are stored in `expenses.json` located in the project directory.
 - If the JSON file is missing, the application creates one on startup.
 
-This is a solution to a project challenge in roadmap.sh.
+This is a solution to a project challenge in [roadmap.sh](https://roadmap.sh/projects/expense-tracker).
+
